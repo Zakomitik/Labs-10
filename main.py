@@ -6,7 +6,7 @@ def show_greeting():
 
 
 def show_student_b_feature():
-    print("Функция Student B: слово успешно добавлено.")
+    print("Функция Student B: сово успешно добавлено.")
 
 
 def main():
