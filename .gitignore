@@ -1,9 +1,1 @@
-# Файлы сборки и временные файлы
-*.exe
-*.out
-*.o
-*.obj
-.vscode/
-.vs/
-Debug/
-Release/
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.vscode/\n
