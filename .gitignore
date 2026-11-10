@@ -1,0 +1,9 @@
+# Файлы сборки и временные файлы
+*.exe
+*.out
+*.o
+*.obj
+.vscode/
+.vs/
+Debug/
+Release/
