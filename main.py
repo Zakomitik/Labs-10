@@ -3,7 +3,7 @@
 
 
 def show_greeting():
-    print("Привет от Student B!")
+    print("Привет от Student A and B!")
 
 
 def show_student_b_feature():
